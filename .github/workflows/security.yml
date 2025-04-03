@@ -64,7 +64,7 @@ jobs:
           appname: 'm3academy-javascript-web'
           createprofile: true
           teams: 'M3Academy'
-          filepath: 'verademo.war'
+          filepath: 'upload.zip'
           vid: '${{ secrets.VID }}'
           vkey: '${{ secrets.VKEY }}'
           version: "${{ github.run_id }}"
